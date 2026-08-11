@@ -23,7 +23,7 @@ Gestión Tecnológica (UNICEN). Bilingüe español / inglés (nativo, Cambridge)
 | [📦 Inventario y demanda](https://github.com/clementecifuentes/inventario-prediccion-demanda) | Análisis ABC + pronóstico Holt-Winters (MAPE 2,4%) + política de reposición con stock de seguridad | Python · statsmodels |
 | [🌾 Rindes agrícolas](https://github.com/clementecifuentes/rindes-agricolas-argentina) | 56 campañas de soja, maíz y trigo con datos oficiales: rendimientos, concentración provincial y brecha de rindes | Python · Pandas |
 
-Todos con **datos reales y pipelines reproducibles** — clonás, corrés dos
+Todos usan datos reales y son reproducibles: clonás el repo, corrés dos
 scripts y obtenés los mismos gráficos.
 
 ## 🛠️ Con qué trabajo
