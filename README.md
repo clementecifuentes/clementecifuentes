@@ -2,7 +2,7 @@
 
 **Data Analyst** · Python · SQL · Power BI · Tandil, Argentina 🇦🇷
 
-Más de 3 años transformando datos crudos en decisiones de negocio: automatizo
+Más de 5 años transformando datos crudos en decisiones de negocio: automatizo
 pipelines con Python y SQL, integro datos en tiempo real vía APIs REST y
 construyo dashboards que gerencia usa para decidir. Actualmente en el sector
 **AgTech** (concesionario John Deere), próximo a graduarme como Licenciado en
