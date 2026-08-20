@@ -9,7 +9,7 @@ construyo dashboards que gerencia usa para decidir. Actualmente en el sector
 Gestión Tecnológica (UNICEN). Bilingüe español / inglés (nativo, Cambridge).
 
 🌐 **Portafolio:** [clementecifuentes.github.io](https://clementecifuentes.github.io) ·
-💼 [LinkedIn](https://linkedin.com/in/clementecifuentes) ·
+💼 [LinkedIn](https://www.linkedin.com/in/clemente-cifuentes/) ·
 📫 clementecifuentes1@gmail.com
 
 ---
