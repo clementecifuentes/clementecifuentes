@@ -22,6 +22,7 @@ Gestión Tecnológica (UNICEN). Bilingüe español / inglés (nativo, Cambridge)
 | [🚚 Torre de control logística](https://github.com/clementecifuentes/torre-control-logistica) | 95 mil pedidos de e-commerce: OTIF, lead time por etapa y brecha regional de entregas | Python · Pandas |
 | [📦 Inventario y demanda](https://github.com/clementecifuentes/inventario-prediccion-demanda) | Análisis ABC + pronóstico Holt-Winters (MAPE 2,4%) + política de reposición con stock de seguridad | Python · statsmodels |
 | [🌾 Rindes agrícolas](https://github.com/clementecifuentes/rindes-agricolas-argentina) | 56 campañas de soja, maíz y trigo con datos oficiales: rendimientos, concentración provincial y brecha de rindes | Python · Pandas |
+| [❄️ Riesgo de helada y ENSO](https://github.com/clementecifuentes/Gestion-de-riesgo-agricola) | 21 campañas de trigo en el sudeste bonaerense: helada tardía vs. fase ENSO, ventana crítica por tiempo térmico y validación contra rinde observado | Python · Pandas · Bootstrap |
 
 Todos usan datos reales y son reproducibles: clonás el repo, corrés dos
 scripts y obtenés los mismos gráficos.
